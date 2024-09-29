@@ -1,4 +1,6 @@
-# WellRound! - Your Personal Routine Optimizer
+# WellRound! - Your Routine Optimizer
+
+Transforming the chaos of personal data into personalized, holistic health insights—to empower you to achieve your full potential!
 
 ## Introduction
 
